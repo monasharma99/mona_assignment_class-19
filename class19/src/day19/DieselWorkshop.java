@@ -15,3 +15,7 @@ public class DieselWorkshop extends Mechanical{
 	}
 
 }
+
+/*Excellent Mona! You have implemented perfect solution. In Management and Mechanical you can avoid creating main method
+ *  as it is not required there. 
+ */
